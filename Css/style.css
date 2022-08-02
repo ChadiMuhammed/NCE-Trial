@@ -7,6 +7,10 @@
     -o-background-size: cover;
     background-size: cover;
 }
+.carousel-caption {
+    border-radius: 25px;
+}
+
 .carousel-caption:hover {
     background-color: wheat;
     transition: 0.5s;
